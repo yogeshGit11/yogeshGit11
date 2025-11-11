@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Python developer with 2 years of experience building scalable web applications and APIs. Skilled in solving complex technical challenges, optimizing performance, and delivering innovative solutions. Self-taught and constantly learning, I thrive on creating clean, efficient, and impactful code that makes a difference.
+Python Developer with 2 years of experience building scalable web applications and APIs. Currently expanding into DevOps to enhance automation, CI/CD, and cloud deployment workflows. Passionate about solving technical challenges, optimizing performance, and delivering innovative solutions. Self-taught and continuously learning new technologies.
 
 
 ## 🌐 Socials:
