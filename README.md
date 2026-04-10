@@ -1,5 +1,6 @@
 # 💫 About Me:
-Python Developer with 2 years of experience building scalable web applications and APIs. Currently expanding into DevOps to enhance automation, CI/CD, and cloud deployment workflows. Passionate about solving technical challenges, optimizing performance, and delivering innovative solutions. Self-taught and continuously learning new technologies.
+Python Developer with 2+ years of experience building scalable APIs using Django and FastAPI.
+I focus on writing clean, maintainable code and designing systems that are fast, reliable, and production-ready. I have hands-on experience with REST API design, database optimization.
 
 
 ## 🌐 Socials:
